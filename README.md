@@ -1,4 +1,4 @@
-# lamborghini-threejs
+# Lamborghini 3D Website in React JS and Three.js
 # https://lamborghini-matgonz.netlify.app/
 
 ![](https://github.com/matgonzalezv/lamborghini-threejs/blob/main/image1.png?raw=true)
